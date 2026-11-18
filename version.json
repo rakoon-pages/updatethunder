@@ -1,14 +1,14 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "min_version_requerida": "0.3.3",
   "obligatoria": false,
   "fecha": "2026-11-18",
   "novedades": [
-    "ThunderClips v0.3.5 (Auto-guardado Gemini Key + Actualizador blindado)",
-    "Auto-guardado instantáneo de tu API Key de Google Gemini al pegarla en Ajustes sin tener que pulsar Guardar",
-    "Descarga atómica (.part) con validación de integridad y firma ejecutable antes de actualizar",
-    "Protección anti-cierre durante la actualización (bloquea cierre accidental X / Alt+F4 y evita archivos rotos)",
-    "Extracción atómica (.tcnew) y recuperación automática si el equipo o la app se cerraron a mitad de una actualización"
+    "ThunderClips v0.3.6 (Aviso de actualización al frente, en Ajustes y fuera de sesión)",
+    "Tarjeta de Actualizaciones arriba del todo en Configuración + banner visible al frente con botones Actualizar ahora / Más tarde",
+    "Detección de actualizaciones también desde la pantalla de inicio de sesión (fuera de sesión)",
+    "Protección si hay vídeos o directos en ejecución: confirma antes de actualizar y detiene todo ordenadamente",
+    "Incluye auto-guardado de Gemini Key, descarga atómica (.part) y escudo anti-cierre / recuperación ante cortes"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.5/ThunderClips_Setup_v0.3.5.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.6/ThunderClips_Setup_v0.3.6.exe"
 }
