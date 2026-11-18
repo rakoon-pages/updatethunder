@@ -1,13 +1,14 @@
 {
-  "version": "0.3.8",
+  "version": "0.4.0",
   "min_version_requerida": "0.3.3",
   "obligatoria": false,
   "fecha": "2026-11-18",
   "novedades": [
-    "ThunderClips v0.3.8 (Versión fija visible, limpieza de redes en modales y mejoras OTP)",
-    "Versión visible permanentemente en el panel lateral y en la pantalla de acceso",
-    "Ocultadas las opciones de publicación en redes sociales dentro de Configuración de Vídeos y Directos",
-    "Soporte en mailer para OTP_WEBHOOK_URL y plantilla lista de Supabase Edge Function send-otp (sin exponer SMTP en el cliente)"
+    "ThunderClips v0.4.0 · Gran Actualización de Estudio",
+    "Actualizaciones visibles en el panel frontal fijo y barra lateral (además de Configuración y pantalla de acceso), y persistencia blindada de sesión y clave Gemini tras actualizar",
+    "Motor Gaming / GTA 6 mejorado: detección precisa de facecam sin falsos cortes de NPCs y Showcase panorámico HUD-safe cuando no hay webcam",
+    "Interpretación IA calibrada según enfoque (Gaming, Podcast, Reacción, Reality) y criterio personalizado tanto en Vídeos como en Directos",
+    "Modo Manual ampliado: detección visual de escenas con FFmpeg, duplicación de clips, marcación rápida +45s, espejo horizontal, viñeta Pro, velocidad 0.5x-2.0x, calidad real (1080p60/30/720p) y corte inteligente de silencios"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.8/ThunderClips_Setup_v0.3.8.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.0/ThunderClips_Setup_v0.4.0.exe"
 }
