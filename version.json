@@ -1,14 +1,13 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "min_version_requerida": "0.3.3",
   "obligatoria": false,
   "fecha": "2026-11-18",
   "novedades": [
-    "ThunderClips v0.4.0 · Gran Actualización de Estudio",
-    "Actualizaciones visibles en el panel frontal fijo y barra lateral (además de Configuración y pantalla de acceso), y persistencia blindada de sesión y clave Gemini tras actualizar",
-    "Motor Gaming / GTA 6 mejorado: detección precisa de facecam sin falsos cortes de NPCs y Showcase panorámico HUD-safe cuando no hay webcam",
-    "Interpretación IA calibrada según enfoque (Gaming, Podcast, Reacción, Reality) y criterio personalizado tanto en Vídeos como en Directos",
-    "Modo Manual ampliado: detección visual de escenas con FFmpeg, duplicación de clips, marcación rápida +45s, espejo horizontal, viñeta Pro, velocidad 0.5x-2.0x, calidad real (1080p60/30/720p) y corte inteligente de silencios"
+    "ThunderClips v0.4.1 · Parche Crítico para Directos en Vivo (YouTube / Twitch / Kick)",
+    "Selección automática de streams muxed con vídeo + audio (cliente Android/Web), corrigiendo el error de YouTube 'Requested format is not available' y streams sin audio",
+    "Nuevo Relay HLS/HTTP en Python (_LocalHLSRelay) como respaldo integrado dentro del .exe para Windows Sandbox cuando FFmpeg falla por I/O HTTPS",
+    "Corrección de muxing MP4/HLS con -bsf:a aac_adtstoasc y -rw_timeout en directos, Clip Fuego y descargas en vivo, más aviso si se pega una clave Gemini tipo 'AQ.'"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.0/ThunderClips_Setup_v0.4.0.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.1/ThunderClips_Setup_v0.4.1.exe"
 }
