@@ -1,14 +1,13 @@
 {
-  "version": "0.3.6",
+  "version": "0.3.7",
   "min_version_requerida": "0.3.3",
   "obligatoria": false,
   "fecha": "2026-11-18",
   "novedades": [
-    "ThunderClips v0.3.6 (Aviso de actualización al frente, en Ajustes y fuera de sesión)",
-    "Tarjeta de Actualizaciones arriba del todo en Configuración + banner visible al frente con botones Actualizar ahora / Más tarde",
-    "Detección de actualizaciones también desde la pantalla de inicio de sesión (fuera de sesión)",
-    "Protección si hay vídeos o directos en ejecución: confirma antes de actualizar y detiene todo ordenadamente",
-    "Incluye auto-guardado de Gemini Key, descarga atómica (.part) y escudo anti-cierre / recuperación ante cortes"
+    "ThunderClips v0.3.7 (Fix falso positivo de red en login Sandbox + actualizaciones visibles)",
+    "Corregido falso positivo 'Variable de red sospechosa' en Sandbox permitiendo el certificado oficial certifi de la app",
+    "Actualizaciones visibles al frente, arriba en Configuración y también fuera de sesión (Actualizar ahora / Más tarde)",
+    "Protección si hay vídeos o directos en ejecución, auto-guardado Gemini Key y escudo anti-cierre en actualizador"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.6/ThunderClips_Setup_v0.3.6.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.7/ThunderClips_Setup_v0.3.7.exe"
 }
