@@ -1,0 +1,14 @@
+{
+  "version": "0.3.4",
+  "min_version_requerida": "0.3.3",
+  "obligatoria": false,
+  "fecha": "2026-11-18",
+  "novedades": [
+    "ThunderClips v0.3.4 (Correcciones integrales Sandbox y Directos)",
+    "Directos multi-slot aislados: solucionado cruce Slot 1/2, falsos offline de Kick y bucles 0 clips en YouTube Live (FFmpeg sin -rw_timeout + fallback seguro en .exe)",
+    "Editor 9:16: solucionado crash FFmpeg -22 en clips largos (be9f68ea/ac5684a3) con expresiones balanceadas y render Gamer Split optimizado",
+    "Sin ventanas CMD visibles de FFmpeg/ffprobe, watchdog WebView2 ajustado y lector de hardware real en Sandbox",
+    "Seguridad de cuenta y UX: ver/confirmar contraseña 2x, aviso de correo OTP, onboarding de Gemini API Key, reproductor sin ReferenceError y menú contextual en inputs email"
+  ],
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.4/ThunderClips_Setup_v0.3.4.exe"
+}
