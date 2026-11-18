@@ -1,13 +1,12 @@
 {
-  "version": "0.4.2",
-  "min_version_requerida": "0.4.2",
+  "version": "0.4.3",
+  "min_version_requerida": "0.4.3",
   "obligatoria": true,
   "fecha": "2026-11-18",
   "novedades": [
-    "Actualización Obligatoria v0.4.2 · Recorte Manual estilo CapCut + Live DVR Anti-Twitch",
-    "Grabación Directo DVR dentro de Recorte Manual (ventana móvil 15–60 min o completa), marcadores Hype [M] y clips rápidos (+90s / +2.5m / +5m) sin cortar la captura",
-    "Timeline CapCut mejorado: onda de audio real (Waveform), manijas arrastrables A/B y rango móvil, botón +15s Margen y selector de velocidad NLE (0.5x–2.0x)",
-    "Soporte multiplataforma mejorado (Twitch, Kick, YouTube Live y TikTok Live @usuario/live + streams FLV) y detección automática inmediata de actualizaciones"
+    "Actualización Obligatoria v0.4.3",
+    "Sección Directos en Vivo temporalmente marcada como Próximamente (disponible en 2 días · 20 de noviembre)",
+    "Estudio de Recorte Manual estilo CapCut optimizado (Waveform, manijas táctiles, pines y margen rápido) + Clipeador de Vídeos activo y estable"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.2/ThunderClips_Setup_v0.4.2.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.3/ThunderClips_Setup_v0.4.3.exe"
 }
