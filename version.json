@@ -1,13 +1,13 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "min_version_requerida": "0.3.3",
   "obligatoria": false,
   "fecha": "2026-11-18",
   "novedades": [
-    "ThunderClips v0.3.7 (Fix falso positivo de red en login Sandbox + actualizaciones visibles)",
-    "Corregido falso positivo 'Variable de red sospechosa' en Sandbox permitiendo el certificado oficial certifi de la app",
-    "Actualizaciones visibles al frente, arriba en Configuración y también fuera de sesión (Actualizar ahora / Más tarde)",
-    "Protección si hay vídeos o directos en ejecución, auto-guardado Gemini Key y escudo anti-cierre en actualizador"
+    "ThunderClips v0.3.8 (Versión fija visible, limpieza de redes en modales y mejoras OTP)",
+    "Versión visible permanentemente en el panel lateral y en la pantalla de acceso",
+    "Ocultadas las opciones de publicación en redes sociales dentro de Configuración de Vídeos y Directos",
+    "Soporte en mailer para OTP_WEBHOOK_URL y plantilla lista de Supabase Edge Function send-otp (sin exponer SMTP en el cliente)"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.7/ThunderClips_Setup_v0.3.7.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.3.8/ThunderClips_Setup_v0.3.8.exe"
 }
