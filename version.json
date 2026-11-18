@@ -1,12 +1,13 @@
 {
-  "version": "0.4.3",
-  "min_version_requerida": "0.4.3",
+  "version": "0.4.4",
+  "min_version_requerida": "0.4.4",
   "obligatoria": true,
   "fecha": "2026-11-18",
   "novedades": [
-    "Actualización Obligatoria v0.4.3",
-    "Sección Directos en Vivo temporalmente marcada como Próximamente (disponible en 2 días · 20 de noviembre)",
-    "Estudio de Recorte Manual estilo CapCut optimizado (Waveform, manijas táctiles, pines y margen rápido) + Clipeador de Vídeos activo y estable"
+    "Actualización Obligatoria v0.4.4",
+    "Bloqueo estricto ante actualizaciones obligatorias: solo Actualizar ahora o Salir de la aplicación",
+    "Arreglo integral del Recorte Manual: barra Añadir Clip [K] siempre visible en cualquier ancho, eliminación del inspector fantasma sin clips, manijas A/B encima de las franjas y corte directo 1s Fast / 9:16 desde [A ➔ B]",
+    "Directos en Vivo marcado como Próximamente (disponible el 20 de noviembre)"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.3/ThunderClips_Setup_v0.4.3.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.4/ThunderClips_Setup_v0.4.4.exe"
 }
