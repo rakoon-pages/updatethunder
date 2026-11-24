@@ -1,13 +1,14 @@
 {
-  "version": "0.4.4",
-  "min_version_requerida": "0.4.4",
+  "version": "0.4.5",
+  "min_version_requerida": "0.4.5",
   "obligatoria": true,
-  "fecha": "2026-11-18",
+  "fecha": "2026-11-24",
   "novedades": [
-    "Actualización Obligatoria v0.4.4",
-    "Bloqueo estricto ante actualizaciones obligatorias: solo Actualizar ahora o Salir de la aplicación",
-    "Arreglo integral del Recorte Manual: barra Añadir Clip [K] siempre visible en cualquier ancho, eliminación del inspector fantasma sin clips, manijas A/B encima de las franjas y corte directo 1s Fast / 9:16 desde [A ➔ B]",
-    "Directos en Vivo marcado como Próximamente (disponible el 20 de noviembre)"
+    "Actualización v0.4.5 · La Casa de Alofoke 24/7 y Editor CapCut Pro",
+    "Directos en Vivo 24/7 (YouTube y Kick) con detección y recorte automático estable sin desfase",
+    "Encuadre inteligente optimizado para reality shows y conversaciones grupales (sin modo gamer en reality)",
+    "Orden cronológico con los clips más recientes y del día más alto primero en La Casa de Alofoke",
+    "Subida directa de La Casa de Alofoke a Google Drive / Web y limpieza automática de clips ya subidos"
   ],
-  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.4/ThunderClips_Setup_v0.4.4.exe"
+  "download_url": "https://github.com/rakoon-pages/updatethunder/releases/download/v0.4.5/ThunderClips_Setup_v0.4.5.exe"
 }
